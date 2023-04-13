@@ -672,10 +672,6 @@ footer span {
     .contact-section {
         padding: 40px 30px !important;
     }
-
-    .hero-section {
-        min-height: unset;
-    }
     
     .hero-section .row {
         -webkit-box-orient: vertical;
