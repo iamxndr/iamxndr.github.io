@@ -440,6 +440,7 @@ section *:not(.circles) {
 }
 
 .project-section {
+    min-height: 100vh;
     background-color: #181818;
 }
 
@@ -478,6 +479,7 @@ section *:not(.circles) {
 }
 
 .contact-section {
+    min-height: 100vh;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
