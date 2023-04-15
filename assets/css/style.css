@@ -48,7 +48,7 @@ section *:not(.circles) {
 
 /* BUTTONS */
 .btn.custom-btn {
-    min-height: 65px;
+    min-height: 63px;
     border: none;
     background: rgb(6,115,50);
     background: -webkit-gradient(linear, right top, left top, from(rgba(6,115,50,1)), to(rgba(33,241,76,1)));
